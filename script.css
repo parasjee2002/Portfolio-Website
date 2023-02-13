@@ -182,6 +182,7 @@ section{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    margin-left: -93px;
 }
 .home .home-content .text-2{
     font-size: 75px;
@@ -191,6 +192,8 @@ section{
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
+    margin-left: -93px;
+
 }
 .home .home-content .text-3 span{
     color: crimson;
@@ -400,7 +403,7 @@ h4:after {
     width: 70%;
 }
 .skills-content .right .python::before{
-    width: 80%;
+    width: 100%;
 }
 .skills-content .right .cpp::before{
     width: 90%;
